@@ -11,22 +11,30 @@ How many votes were cast in this congressional election?
 
 
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
 -Jefferson had 38,855 votes accounting for 10.5%
+
 -Denver had 306,055 votes accounting for 82.8%
+
 -Arapahoe had 24,801 votes accounting for 6.7%
 
 
 Which county had the largest number of votes?
+
 -Denver had the largest county turnout of over 300,000 votes
 
 
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
 -Charles Casper Stockman had 85,213 votes accounting for 23%
+
 -Diana DeGetta had 272,892 votes accounting for 73.8%
+
 -Raymon Anthony Doane had 11,606 votes accounting for 3.1%
 
 
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
 -Diana DeGette was the winning candidate with 272,892 votes accounting for 73.8% of the votes
 
 
